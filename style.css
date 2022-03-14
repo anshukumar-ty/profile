@@ -1,0 +1,103 @@
+.div3{
+    background-color: hsl(192, 76%, 64%);
+    width: 100%;
+    
+}
+h1{
+    color: hsl(192, 76%, 39%);
+    margin-top: 0px;
+    padding-top: 30px;
+   
+}
+body{
+    margin: 0px;
+    
+}
+.div1{
+   margin-top: 0px;
+    height: 700px;
+    background-color:hsl(192, 76%, 39%) ;
+
+}
+body{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.cloud1{
+    position :relative;
+    top:20px;
+    left: 300px;
+}
+.cloud2{
+    position: absolute;
+    left:300px;
+    top:200px
+}
+ul{
+    display:inline-block
+}
+.img1{
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+}
+.img2{
+    height: 200px;
+    float: right;
+    margin-left: 20px;
+}
+.skill-row{
+    display: inline-block;
+    width: 50%;
+    margin-top: 100px;
+    text-align: left;
+}
+.profile{
+    padding-top: 50px;
+}
+.dis{
+    width: 30%;
+    margin:auto;
+}
+hr{
+    width:4%;
+    margin-bottom: 100px;
+    border:dotted grey 6px;
+    border-bottom: none;
+}
+.contact-massage{
+    width: 40%;
+    margin: 12px auto 12px;
+    padding-bottom: 24px;
+
+}
+.btn{
+    font-size: 60%;
+    padding:11px;
+    text-decoration: none;
+    background-color: aqua;
+    border: 3px solid rgb(47, 119, 145);
+    border-radius: 13px;
+}
+.contact-me{
+    margin-bottom: 44px;
+}
+.btn:hover{
+    background-color: rgb(31, 235, 235);
+}
+.bottom-container{
+    background-color: aqua;
+    padding: 33px;
+    margin-bottom: 0px;
+}
+.footer-link{
+    margin: 12px;
+    text-decoration: none;
+}
+.foot{
+    color: white;
+}
+.footer-link:hover{
+    color:white;
+}
